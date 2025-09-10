@@ -14,4 +14,3 @@ def answer(B,C):
         num = num/3
         denom = denom/3
     return str(int(num))+"/"+str(int(denom))
-print(answer(6,1))
